@@ -13,10 +13,10 @@ I'm a Artificial Intelligence & Data Engineering student passionate about data-d
 
 ###  Featured Academic Projects
 
-*    **Numerical Methods in Computer Engineering:** 
+ **Numerical Methods in Computer Engineering:** 
     Implemented computational algorithms to approximate solutions for complex mathematical models. 
     Authored a detailed project report analyzing algorithmic efficiency, error bounds, and convergence rates.
-*    **Relational Database Systems:** 
+    **Relational Database Systems:** 
     Architected a complete database solution from conceptual design to physical implementation.
     Developed complex SQL queries, normalized schemas, and entity-relationship models.
 
